@@ -23,3 +23,5 @@ root 7'dir.
 4, 3'ten büyük olduğu için 3'ün sağına yazılır.
 
 2, 3'ten küçük olduğu için 3'ün soluna yazılır.
+
+https://app.patika.dev/lililayda
